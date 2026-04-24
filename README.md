@@ -12,12 +12,12 @@ A hands-on portfolio of six deep learning tutorials built in Google Colab. Each 
 
 | # | Tutorial | Colab Notebook | Video Walkthrough |
 |:-:|----------|:--------------:|:-----------------:|
-| 1 | Activation Functions | [Open in Colab](https://colab.research.google.com/drive/1X4Y6crmtXKSrVAfSZ0Rpsos0IlSfhUwz?usp=sharing) | [▶ YouTube](TODO_ADD_LINK) |
-| 2 | CNN Fundamentals | [Open in Colab](https://colab.research.google.com/drive/1eGNGpbdstT8PEvmrNge_oWWnQR9t_PHp?usp=sharing) | [▶ YouTube](TODO_ADD_LINK) |
-| 3 | Hyperparameter Tuning | [Open in Colab](https://colab.research.google.com/drive/1IXOj5VBlCjDWQdwjjhA0FfLdwBdCc1Vc?usp=sharing) | [▶ YouTube](TODO_ADD_LINK) |
-| 4 | Classification Metrics | [Open in Colab](https://colab.research.google.com/drive/1MgNvpp3txkDM7tQrIVd-hvi7I-Fy39YV?usp=sharing) | [▶ YouTube](TODO_ADD_LINK) |
-| 5 | Modern CNN Architectures | [Open in Colab](https://colab.research.google.com/drive/1kkICFrcHwIJAGOvNtfiqEYohHe1KOris?usp=sharing) | [▶ YouTube](TODO_ADD_LINK) |
-| 6 | Optimizers for Deep Learning | [Open in Colab](https://colab.research.google.com/drive/1lXcXt5KnPE4Y3hFAS-dhgzltmAgqeooD?usp=sharing) | [▶ YouTube](TODO_ADD_LINK) |
+| 1 | Activation Functions | [Open in Colab](https://colab.research.google.com/drive/1X4Y6crmtXKSrVAfSZ0Rpsos0IlSfhUwz?usp=sharing) | [▶ YouTube] |
+| 2 | CNN Fundamentals | [Open in Colab](https://colab.research.google.com/drive/1eGNGpbdstT8PEvmrNge_oWWnQR9t_PHp?usp=sharing) | [▶ YouTube] |
+| 3 | Hyperparameter Tuning | [Open in Colab](https://colab.research.google.com/drive/1IXOj5VBlCjDWQdwjjhA0FfLdwBdCc1Vc?usp=sharing) | [▶ YouTube] |
+| 4 | Classification Metrics | [Open in Colab](https://colab.research.google.com/drive/1MgNvpp3txkDM7tQrIVd-hvi7I-Fy39YV?usp=sharing) | [▶ YouTube] |
+| 5 | Modern CNN Architectures | [Open in Colab](https://colab.research.google.com/drive/1kkICFrcHwIJAGOvNtfiqEYohHe1KOris?usp=sharing) | [▶ YouTube]|
+| 6 | Optimizers for Deep Learning | [Open in Colab](https://colab.research.google.com/drive/1lXcXt5KnPE4Y3hFAS-dhgzltmAgqeooD?usp=sharing) | [▶ YouTube]|
 
 > **📌 Replace each `TODO_ADD_LINK` with your actual YouTube URL after recording.**
 
@@ -213,13 +213,3 @@ deep-learning-tutorials/
 - **torchvision** — pretrained models, data augmentation transforms, CIFAR-10 dataset
 
 ---
-
-## Assignment Checklist
-
-- [ ] All 6 notebooks copied to Google Drive with world-sharing permissions
-- [ ] All 6 notebooks executed in Colab with outputs saved
-- [ ] All 6 notebooks pushed to this GitHub repository
-- [ ] 6 walkthrough videos recorded (one per notebook, code-block by code-block)
-- [ ] 6 videos uploaded to YouTube
-- [ ] YouTube links added to the Quick Links table above (replace `TODO_ADD_LINK`)
-- [ ] This README pushed to repo root
