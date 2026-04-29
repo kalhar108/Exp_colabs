@@ -12,12 +12,12 @@ A hands-on portfolio of six deep learning tutorials built in Google Colab. Each 
 
 | # | Tutorial | Colab Notebook | Video Walkthrough |
 |:-:|----------|:--------------:|:-----------------:|
-| 1 | Activation Functions | [Open in Colab](https://colab.research.google.com/drive/1X4Y6crmtXKSrVAfSZ0Rpsos0IlSfhUwz?usp=sharing) | [▶ YouTube] |
-| 2 | CNN Fundamentals | [Open in Colab](https://colab.research.google.com/drive/1eGNGpbdstT8PEvmrNge_oWWnQR9t_PHp?usp=sharing) | [▶ YouTube] |
-| 3 | Hyperparameter Tuning | [Open in Colab](https://colab.research.google.com/drive/1IXOj5VBlCjDWQdwjjhA0FfLdwBdCc1Vc?usp=sharing) | [▶ YouTube] |
-| 4 | Classification Metrics | [Open in Colab](https://colab.research.google.com/drive/1MgNvpp3txkDM7tQrIVd-hvi7I-Fy39YV?usp=sharing) | [▶ YouTube] |
-| 5 | Modern CNN Architectures | [Open in Colab](https://colab.research.google.com/drive/1kkICFrcHwIJAGOvNtfiqEYohHe1KOris?usp=sharing) | [▶ YouTube]|
-| 6 | Optimizers for Deep Learning | [Open in Colab](https://colab.research.google.com/drive/1lXcXt5KnPE4Y3hFAS-dhgzltmAgqeooD?usp=sharing) | [▶ YouTube]|
+| 1 | Activation Functions | [Open in Colab](https://colab.research.google.com/drive/1X4Y6crmtXKSrVAfSZ0Rpsos0IlSfhUwz?usp=sharing) | https://www.loom.com/share/efc977052ae4435d8d16ae1d01c9575d|
+| 2 | CNN Fundamentals | [Open in Colab](https://colab.research.google.com/drive/1eGNGpbdstT8PEvmrNge_oWWnQR9t_PHp?usp=sharing) | https://www.loom.com/share/200f8de32fbd4b5b95fd75c0cd56e2eb |
+| 3 | Hyperparameter Tuning | [Open in Colab](https://colab.research.google.com/drive/1IXOj5VBlCjDWQdwjjhA0FfLdwBdCc1Vc?usp=sharing) | https://www.loom.com/share/db6f6ea6163e46278f03f310bf005ef9 |
+| 4 | Classification Metrics | [Open in Colab](https://colab.research.google.com/drive/1MgNvpp3txkDM7tQrIVd-hvi7I-Fy39YV?usp=sharing) | https://www.loom.com/share/ad4bfa764762411cb92b52704f6155a5 |
+| 5 | Modern CNN Architectures | [Open in Colab](https://colab.research.google.com/drive/1kkICFrcHwIJAGOvNtfiqEYohHe1KOris?usp=sharing) | https://www.loom.com/share/465d252a72ae46dfa793a3eefc18aff7|
+| 6 | Optimizers for Deep Learning | [Open in Colab](https://colab.research.google.com/drive/1lXcXt5KnPE4Y3hFAS-dhgzltmAgqeooD?usp=sharing) | https://www.loom.com/share/5aa1a661b93748178176b88b22e3eafa|
 
 > **📌 Replace each `TODO_ADD_LINK` with your actual YouTube URL after recording.**
 
